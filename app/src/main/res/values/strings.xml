@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoFishApp</string>
+    <string name="welcome_to_go_fish">Welcome to go Fish!</string>
+    <string name="no_card">No Card</string>
+    <string name="guess">Guess:</string>
+    <string name="enter">Enter</string>
+</resources>
