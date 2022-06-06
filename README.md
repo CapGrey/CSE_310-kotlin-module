@@ -11,6 +11,9 @@ This was all integrated into an Android app.
 The purpose I had in writing this software was to gain an understanding of the basics of app development. 
 I wanted to learn how function calls, loops, and classes worked in an app environment. I Used both arrayLists and sets for this software.
 
+To use the app, enter your guess into the Guess tab at the top of the screen. Then push the enter button.
+The game ends once no more cards are left, and will display a game over message once this happens.
+
 
 [Software Demo Video](https://youtu.be/9kr-KJExaw8)
 
